@@ -1,0 +1,123 @@
+[
+    {
+      "img": "item1.jpg",
+      "title": "Healthy Snack",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "A nutritious and delicious snack for a healthy lifestyle.",
+      "price": 200
+    },
+    {
+      "img": "item2.jpg",
+      "title": "Educational Book",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Expand your knowledge with this informative book.",
+      "price": 250
+    },
+    {
+      "img": "item3.jpg",
+      "title": "Casual T-shirt",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "##79C23F26",
+      "text_color": "#79C23F",
+      "description": "A comfortable and stylish T-shirt for everyday wear.",
+      "price": 180
+    },
+    {
+      "img": "item4.jpg",
+      "title": "Organic Produce",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Fresh and organic fruits and vegetables for a healthy diet.",
+      "price": 150
+    },
+    {
+      "img": "item5.jpg",
+      "title": "Fitness Equipment",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Stay fit with our range of fitness equipment.",
+      "price": 180
+    },
+    {
+      "img": "item6.jpg",
+      "title": "Educational Toy",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "An educational toy to stimulate young minds.",
+      "price": 220
+    },
+    {
+      "img": "item7.jpg",
+      "title": "Formal Suit",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "##79C23F26",
+      "text_color": "#79C23F",
+      "description": "Look sharp in this elegant formal suit.",
+      "price": 300
+    },
+    {
+      "img": "item8.jpg",
+      "title": "Gourmet Food Basket",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Indulge in gourmet delights with our food basket.",
+      "price": 260
+    },
+    {
+      "img": "item9.jpg",
+      "title": "Vitamin Supplements",
+      "category": "Health",
+      "category_bg": "#0052FF33",
+      "card_bg": "#0052FF26",
+      "text_color": "#0052FF",
+      "description": "Boost your health with our vitamin supplements.",
+      "price": 190
+    },
+    {
+      "img": "item10.jpg",
+      "title": "Educational Course",
+      "category": "Education",
+      "category_bg": "#FF444A33",
+      "card_bg": "#FF444A26",
+      "text_color": "#FF444A",
+      "description": "Learn new skills with our online educational course.",
+      "price": 170
+    },
+    {
+      "img": "item11.jpg",
+      "title": "Fashionable Dress",
+      "category": "Clothing",
+      "category_bg": "#79C23F33",
+      "card_bg": "##79C23F26",
+      "text_color": "#79C23F",
+      "description": "Make a fashion statement with this stylish dress.",
+      "price": 230
+    },
+    {
+      "img": "item12.jpg",
+      "title": "Organic Groceries",
+      "category": "Food",
+      "category_bg": "#F8714733",
+      "card_bg": "#F8714726",
+      "text_color": "#F87147",
+      "description": "Stock up on organic groceries for a healthy lifestyle.",
+      "price": 260
+    }
+  ]
+  
