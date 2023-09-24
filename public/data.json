@@ -7,7 +7,7 @@
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_color": "#0052FF",
-        "description": "A nutritious and delicious snack for a healthy lifestyle.",
+        "description": "Indulge in the goodness of our Healthy Snack, the perfect choice for those seeking a nutritious and delicious option for a healthier lifestyle. Made from the finest, all-natural ingredients, this snack is designed to tantalize your taste buds while providing essential nutrients and energy. Whether you're on the go, at work, or simply looking for a guilt-free treat, our Healthy Snack is your ideal companion.",
         "price": 200
     },
     {
@@ -18,7 +18,7 @@
         "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_color": "#FF444A",
-        "description": "Expand your knowledge with this informative book.",
+        "description": "Expand your knowledge with this informative book. Dive into a world of learning and exploration with a carefully curated selection of topics that will pique your curiosity and broaden your horizons. Whether you're a student, educator, or simply someone who loves to read, this book is a valuable addition to your collection.",
         "price": 250
     },
     {
@@ -29,7 +29,7 @@
         "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
         "text_color": "#79C23F",
-        "description": "A comfortable and stylish T-shirt for everyday wear.",
+        "description": "Elevate your casual style with our comfortable and stylish T-shirt. Crafted with care, this T-shirt offers the perfect blend of comfort and fashion. Whether you're heading out for a casual day with friends or simply relaxing at home, this T-shirt ensures you look good and feel great.",
         "price": 180
     },
     {
@@ -40,7 +40,7 @@
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_color": "#F87147",
-        "description": "Fresh and organic fruits and vegetables for a healthy diet.",
+        "description": "Savor the taste of fresh and organic fruits and vegetables with our Organic Produce selection. Packed with flavor and nutrients, our produce is sourced from trusted organic farms. Whether you're a dedicated foodie or health-conscious individual, our organic offerings are a delicious and wholesome choice.",
         "price": 150
     },
     {
@@ -51,7 +51,7 @@
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_color": "#F87147",
-        "description": "Indulge in gourmet delights with our food basket.",
+        "description": "Indulge in gourmet delights with our carefully curated food basket. Experience a culinary journey filled with premium flavors and exquisite tastes. Whether you're treating yourself or gifting it to a loved one, our gourmet food basket is a feast for the senses.",
         "price": 260
     },
     {
@@ -62,7 +62,7 @@
         "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
         "text_color": "#79C23F",
-        "description": "Look sharp in this elegant formal suit.",
+        "description": "Make a lasting impression with our elegant formal suit. Crafted with attention to detail and style, this suit is perfect for formal events, business meetings, or special occasions. Look sharp, confident, and ready to conquer the world in this timeless ensemble.",
         "price": 300
     },
     {
@@ -73,7 +73,7 @@
         "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_color": "#FF444A",
-        "description": "An educational toy to stimulate young minds.",
+        "description": "Stimulate young minds with our educational toy. Designed to engage and educate, this toy offers hours of learning and fun. Perfect for kids of all ages, it encourages creativity and curiosity, making it an ideal addition to any playtime or learning environment.",
         "price": 220
     },
     {
@@ -84,7 +84,7 @@
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_color": "#0052FF",
-        "description": "Stay fit with our range of fitness equipment.",
+        "description": "Stay fit and active with our range of fitness equipment. Whether you're a fitness enthusiast or just starting your journey to a healthier lifestyle, our equipment is designed to help you achieve your fitness goals. From cardio to strength training, we've got you covered.",
         "price": 180
     },
     {
@@ -95,7 +95,7 @@
         "category_bg": "#0052FF33",
         "card_bg": "#0052FF26",
         "text_color": "#0052FF",
-        "description": "Boost your health with our vitamin supplements.",
+        "description": "Boost your health with our vitamin supplements. We understand the importance of maintaining your well-being, and our supplements are designed to provide essential nutrients and support your health goals. Stay energized and vital with our quality supplements.",
         "price": 190
     },
     {
@@ -106,7 +106,7 @@
         "category_bg": "#FF444A33",
         "card_bg": "#FF444A26",
         "text_color": "#FF444A",
-        "description": "Learn new skills with our online educational course.",
+        "description": "Learn new skills and expand your knowledge with our online educational course. Taught by experts in their respective fields, our courses cover a wide range of topics. Whether you're seeking personal growth or professional development, our courses are your path to success.",
         "price": 170
     },
     {
@@ -117,7 +117,7 @@
         "category_bg": "#79C23F33",
         "card_bg": "#79C23F26",
         "text_color": "#79C23F",
-        "description": "Make a fashion statement with this stylish dress.",
+        "description": "Make a fashion statement with this stylish dress. Designed for those who appreciate sophistication and elegance, this dress is perfect for special occasions or nights out. Step into the spotlight with confidence and grace.",
         "price": 230
     },
     {
@@ -128,7 +128,7 @@
         "category_bg": "#F8714733",
         "card_bg": "#F8714726",
         "text_color": "#F87147",
-        "description": "Stock up on organic groceries for a healthy lifestyle.",
+        "description": "Stock up on organic groceries for a healthy and sustainable lifestyle. Our selection of organic products ensures that you're making environmentally conscious choices without compromising on taste and quality. From pantry staples to fresh produce, we've got your organic needs covered.",
         "price": 260
     }
 ]
