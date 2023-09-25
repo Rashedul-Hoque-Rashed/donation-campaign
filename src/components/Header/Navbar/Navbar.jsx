@@ -28,7 +28,7 @@ const Navbar = () => {
                             }
                         </ul>
                     </div>
-                    <a className="btn btn-ghost normal-case text-xl"><img className="w-auto h-12" src={"../src/assets/Logo.png"} alt="" /></a>
+                    <img className="w-auto h-12" src={"https://i.ibb.co/Dtx0x6z/Logo.png"} alt="" />
                 </div>
                 <div className="navbar-end hidden md:flex">
                     <ul className="menu-horizontal gap-10 items-center px-1 text-lg">
