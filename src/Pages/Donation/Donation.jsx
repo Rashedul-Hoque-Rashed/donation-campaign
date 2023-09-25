@@ -24,9 +24,9 @@ const Donation = () => {
             <div>
                 {
                     noDonate ?
-                        <p className="flex h-96 text-5xl font-bold justify-center items-center text-black">{noDonate}</p>
+                        <p className="flex h-96 text-2xl md:text-4xl lg:text-5xl font-bold justify-center items-center text-black">{noDonate}</p>
                         :
-                        <div className="grid grid-cols-2 gap-6">
+                        <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
                             {
                                 isSeeAll ?
                                     donates.map(donate => <Donate key={donate.id} donate={donate}></Donate>)
