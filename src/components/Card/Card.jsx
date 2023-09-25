@@ -9,15 +9,17 @@ const Card = ({ card }) => {
 
 
     return (
-        <NavLink to={`/card/${id}`}>
-            <div className="card card-compact shadow-xl" style={{ backgroundColor: `${card_bg}`, color: `${text_color}` }}>
-                <figure><img src={img} alt="Shoes" /></figure>
-                <div className="card-body">
-                    <h4 className="text-sm font-medium py-1 px-3 rounded-lg w-fit" style={{ backgroundColor: `${category_bg}` }}>{category}</h4>
-                    <h2 className="card-title">{title}</h2>
+        <div>
+            <NavLink to={`/card/${id}`}>
+                <div className="card card-compact shadow-xl" style={{ backgroundColor: `${card_bg}`, color: `${text_color}` }}>
+                    <figure><img src={img} alt="Shoes" /></figure>
+                    <div className="card-body">
+                        <h4 className="text-sm font-medium py-1 px-3 rounded-lg w-fit" style={{ backgroundColor: `${category_bg}` }}>{category}</h4>
+                        <h2 className="card-title">{title}</h2>
+                    </div>
                 </div>
-            </div>
-        </NavLink>
+            </NavLink>
+        </div>
     );
 };
 

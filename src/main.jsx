@@ -10,6 +10,7 @@ import Home from './Pages/Home/Home';
 import Error from './Pages/Error/Error';
 import CardDetails from './components/CardDetails/CardDetails';
 import Donation from './Pages/Donation/Donation';
+import Statistics from './Pages/Statistics/Statistics';
 
 
 const router = createBrowserRouter([
@@ -30,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: "/donation",
         element: <Donation></Donation>
+      },
+      {
+        path: "/statistics",
+        element: <Statistics></Statistics>
       }
     ]
   },
