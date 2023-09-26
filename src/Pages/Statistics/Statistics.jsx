@@ -1,19 +1,42 @@
-import { Cell, Legend, Pie, PieChart, Tooltip } from "recharts";
+import { useEffect, useState } from "react";
+import { Cell, Legend, Pie, PieChart } from "recharts";
 
 
 const Statistics = () => {
-    const yourDonation = JSON.parse(localStorage.getItem('donate'));
 
-    const data = [
-        {
-            "name": "Total Donation",
-            "value": (12 - yourDonation.length),
-        },
-        {
-            "name": "Your Donation",
-            "value": yourDonation.length,
-        }
-    ]
+    const [data, setData] = useState([]);
+
+    useEffect(()=>{
+      const yourDonation = JSON.parse(localStorage.getItem('donate'));
+
+      if(yourDonation){
+        const pieData = [
+              {
+                  "name": "Total Donation",
+                  "value": (12 - yourDonation.length)
+              },
+              {
+                  "name": "Your Donation",
+                  "value": yourDonation.length
+              }
+          ];
+          setData(pieData);
+      }
+      else{
+        const pieData = [
+          {
+              "name": "Total Donation",
+              "value": 12
+          },
+          {
+              "name": "Your Donation",
+              "value": 0
+          }
+      ];
+      setData(pieData);
+      }
+    },[]);
+
 
     const COLORS = ['#FF444A', '#00C49F'];
 
@@ -43,7 +66,7 @@ const Statistics = () => {
                             fill="#FFFFFF"
                             textAnchor={x > cx ? 'start' : 'end'}
                             dominantBaseline="central"
-                            className="text-xl font-bold"
+                            className="font-bold"
                           >
                             {`${(percent * 100).toFixed(2)}%`}
                           </text>
